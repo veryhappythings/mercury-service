@@ -1,0 +1,11 @@
+{
+  "name": "mercury-service",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "@postlight/mercury-parser": "^2.2.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "express": "^4.17.1"
+  }
+}
